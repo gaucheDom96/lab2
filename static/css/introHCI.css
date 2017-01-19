@@ -9,6 +9,12 @@
 	color: #CC00AA;
 }
 
+.project {
+     margin-left: 20x;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
@@ -21,6 +27,9 @@ body {
 	background: none;
 }
 
+#project1 {
+    font-variant: small-caps;
+}
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
